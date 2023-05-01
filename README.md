@@ -7,10 +7,10 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feliphelira&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
+##
 
-<div style="display: inline_block"><br>
-  
-  
+
+  <div style="display: inline_block"><br>
   <h1 align="center">Estudando essas liguagens</h1>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
